@@ -36,7 +36,7 @@ Este projeto consiste em uma **API desenvolvida com FastAPI** para classificar a
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
