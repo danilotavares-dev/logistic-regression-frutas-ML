@@ -1,10 +1,10 @@
-# 🍎 Classificador de Qualidade de Frutas
+# Classificador de Qualidade de Frutas
 
 Este projeto consiste em uma **API desenvolvida com FastAPI** para classificar a qualidade de frutas (por exemplo, **"Boa"** ou **"Ruim"**) com base em suas características físico-químicas. O modelo de *Machine Learning* utilizado foi treinado com **Regressão Logística**.
 
 ---
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 - **Previsão de Qualidade**: Recebe dados de uma fruta e retorna a classificação (*Boa* ou *Ruim*) junto com a probabilidade associada.
 - **Modelo Treinado**: Utiliza um modelo do *scikit-learn* previamente treinado e serializado (`.pkl`).
@@ -12,7 +12,7 @@ Este projeto consiste em uma **API desenvolvida com FastAPI** para classificar a
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python 3.13**
 - **FastAPI** – Framework web
@@ -22,7 +22,7 @@ Este projeto consiste em uma **API desenvolvida com FastAPI** para classificar a
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 ├── main.py                     # Código fonte da API (rota /classify)
