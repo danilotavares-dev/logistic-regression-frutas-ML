@@ -32,11 +32,11 @@ Este projeto consiste em uma **API desenvolvida com FastAPI** para classificar a
 ├── requiriments.txt            # Dependências do projeto
 ```
 
-> ⚠️ Observação: o arquivo de dependências está nomeado como `requiriments.txt` no projeto original.
+>  Observação: o arquivo de dependências está nomeado como `requiriments.txt` no projeto original.
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
